@@ -5,6 +5,8 @@ A magic lilypond function that connects arpeggio lines across staves!
 Based on a snippet by Mark Polesky taken from: 
 http://lilypond.1069038.n5.nabble.com/cross-staff-versions-of-arpeggioArrowUp-etc-td119964.html#none
 
+I did not write this. This is literally someone else's code, found on a nabble forum, that I packaged up into a git repository, so I could submodule it into my projects easily. 
+
 # Usage
 
 When you want arpeggios to connect across staves, do this:
